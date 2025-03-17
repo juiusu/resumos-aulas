@@ -28,7 +28,42 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 ** Grandezas e Unidades de medida
 
+
+| Grandezas   | Unidades (nome)      | unidade (símbolo) |
+|-------------+----------------------+-------------------|
+| massa       | quilograma, grama    | kg, g             |
+| volume      | litro, mili-litro,   | L, mL             |
+| densidade   | grama por mili-litro | g/mL              |
+| comprimento | metro, centímetro    | m, cm             |
+| tempo       | hora, segundo        | h, s              |
+
+
 ** Equações
+
+As equações, na física, são relações matemáticas entre
+grandezas. Considere que estamos fazendo medida com uma substância e
+que temos os seguintes dados:
+
+| massa (g) | volume (mL) | densidade (g/mL) |
+|-----------+-------------+------------------|
+| 3,0       | 1,0         | 3,0              |
+| 6,0       | 2,0         | 3,0              |
+| -         | 2,5         | 3,0              |
+| 5,0       | -           | 3,0              |
+| 15,0      | 3,0         | -                |
+
+A densidade é calculada dividindo a massa pelo volume. Assim, você
+pode tentar adivinhar os valores que estão faltando. Mas essa relação
+entre as três grandezas pode ser escrita como uma equação matemática
+na forma:
+
+\begin{equation}
+d = \frac{m}{V}
+\end{equation}
+
+Onde m reprenta um valor de massa, e V e d representão os valores
+correspondentes de volume e densidade. Asim, sempre que tivermos dois
+valores, podemos encontrar o terceiro.
 
 ** Gráficos
 
