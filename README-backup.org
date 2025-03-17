@@ -1,0 +1,11 @@
+
+#+title: Resumos das aulas de física
+
+Nessa página serão resumidas as aulas de física dos Cúrsos Técnicos de Nível
+Médio em Informática, Administração e Agropecuária na Forma Integrada,
+do IFAM Campus Eirunepé; ministradas no ano de 2025.
+
+O objetivo é construir um material de consulta aos estudantes ao
+logo dos desenvolvimentos das disciplinias. 
+
+Sugestões dos alunos serão sempre bem-vindas.
